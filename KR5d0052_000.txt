@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 玄眞子
-#+DATE: 2015-08-28 21:41:58
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 01:15:06.114800
+#+TITLE: 玄真子外篇
+#+PROPERTY: DZID  DZ1029
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，21—718 三卷 太玄部
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-云
+#+PROPERTY: WITNESS HFL
